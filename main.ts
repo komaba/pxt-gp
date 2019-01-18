@@ -42,7 +42,7 @@ namespace gp {
     }
             /**
          *Set brightness.
-         * @param number of brightness, eg: 30
+         * @param v number of brightness, eg: 30
          */
     //% blockId=brightness_determination block="%v より %flag"
     //% v.min=0 v.max=255
